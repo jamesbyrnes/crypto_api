@@ -10,6 +10,16 @@ Run the following in the repo after pulling:
 $ npm install
 ```
 
+## Running
+
+Run the following in the repo to start the server:
+
+```bash
+$ npm start
+```
+
+This will start the server on port 3030.
+
 ## API functionality
 
 The following API routes are available in v1:
